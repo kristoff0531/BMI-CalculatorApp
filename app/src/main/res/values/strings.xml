@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="hint_weight">BMI</string>
+    <string name="hint_heightFt">BMI</string>
+    <string name="hint_heightIn">BMI</string>
+
+</resources>
